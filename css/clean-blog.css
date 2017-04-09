@@ -413,6 +413,31 @@ body {
 
 #logo {
     width: 50%;
+    margin-left: 25px;
+}
+
+.navbar-right {
+    margin-right: 15px;
+}
+
+@font-face {
+    font-family: 'Avenir'; /*a name to be used later*/
+    src: url('../vendor/Avenir/'); /*URL to font*/
+}
+
+.avenir {
+    font-family: Avenir;
+}
+
+.white-text {
+    color: white;
+    font-family: Avenir;
+}
+
+.gray-text {
+    font-family: Avenir;
+    font-family: sans-serif;
+    color: #acbccd;
 }
 
 
