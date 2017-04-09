@@ -422,7 +422,7 @@ body {
 
 @font-face {
     font-family: 'Avenir'; /*a name to be used later*/
-    src: url('../vendor/Avenir/'); /*URL to font*/
+    src: url('../vendor/Avenir/Linotype-AvenirLTStd-Book.otf'); /*URL to font*/
 }
 
 .avenir {
@@ -436,9 +436,9 @@ body {
 
 .gray-text {
     font-family: Avenir;
-    font-family: sans-serif;
     color: #acbccd;
 }
+
 
 
 
